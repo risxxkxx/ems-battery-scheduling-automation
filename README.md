@@ -63,6 +63,7 @@ Forecast / operating strategy
 - **python-dotenv**
 - **Windows Batch**
 - **Windows Task Scheduler**
+- **GitHub Actions** — dependency and syntax checks
 
 ## Project Structure
 
